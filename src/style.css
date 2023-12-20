@@ -1,0 +1,17 @@
+:root {
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  font-weight: 400;
+  font-size: 16px;
+  --primary: #454545;
+  --primary-rgb: 69, 69, 69;
+  --second: #F0F0F0;
+  --second-rgb: 240, 240, 240;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: var(--primary);
+}
